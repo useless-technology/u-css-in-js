@@ -1,4 +1,6 @@
 {
+  "name": "@useless/css-in-js",
+  "version": "0.0.1",
   "module": "index.ts",
   "scripts": {
     "test": "vite"
